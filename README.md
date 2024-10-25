@@ -5,5 +5,5 @@ demo:https://famous-trifle-81b20a.netlify.app/
 backend code:https://github.com/Chunsubeen/todolist_be
 
 ## Devops
--AWS beanstalk
--Netlify
+*AWS beanstalk
+*Netlify
